@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.item {
+  display: felx;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+.title {
+  font-family: roboto;
+  font-size: 16px;
+  color: #000000;
+}
+.button {
+  border: 1px solid #ff0b37;
+  color: #ff0b37;
+  outline: none;
+  cursor: pointer;
+  padding-top: 4px;
+  font-family: roboto;
+  background-color: transparent;
+}
